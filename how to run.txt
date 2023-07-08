@@ -1,0 +1,11 @@
+to run this code and model do the following steps -
+1] Clone the github repo in your system
+2] download the model from the Google Drive and paste it into the cloned folder
+	link- https://drive.google.com/file/d/1RcztMZuoEyDXHxizxFPe1Rj5pmfx4Q94/view?usp=sharing
+3] open cmd in the folder
+
+For executing the model with webcam use the following command -
+	python predict.py model=bestn.pt source=0
+
+For executing the model with webcam use the following command -
+	python predict.py model=bestn.pt source="test video.mp4"
