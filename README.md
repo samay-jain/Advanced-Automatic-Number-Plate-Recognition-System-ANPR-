@@ -29,5 +29,7 @@ plates with varying font sizes and languages in a single image. The seamless int
 YOLOv8 for detection and EasyOCR, along with other supporting libraries, demonstrates an
 effective approach to handle the intricacies associated with such challenging scenarios. 
 
+
 Sample Output of our Developed Model -
 <img src="https://drive.google.com/file/d/1c_ZaCO2ChQprrlaI20pXjjGZJ7NCpEYa/view?usp=sharing)https://drive.google.com/file/d/1c_ZaCO2ChQprrlaI20pXjjGZJ7NCpEYa/view?usp=sharing" alt="Number plate recognition">
+![7](https://github.com/samay-jain/Advanced-Automatic-Number-Plate-Recognition-System-ANPR-/assets/116068471/9fd100cc-cd6c-434e-b778-382f24cc22d8)
