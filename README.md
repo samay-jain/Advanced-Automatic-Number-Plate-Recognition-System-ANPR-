@@ -47,12 +47,12 @@ link- https://drive.google.com/file/d/1RcztMZuoEyDXHxizxFPe1Rj5pmfx4Q94/view?usp
 #### 3] Open cmd in the folder.
 To execute the model with a webcam, use the following command:
      ```
-     Python predict.py model=bestn.pt source=0
+     python predict.py model=bestn.pt source=0
      ```
 
 To execute the model with a webcam, use the following command:
      ```
-     Python predict.py model=bestn.pt source="test video.mp4"
+     python predict.py model=bestn.pt source="test video.mp4"
      ```
 
 Sample Output of Our Developed Model
