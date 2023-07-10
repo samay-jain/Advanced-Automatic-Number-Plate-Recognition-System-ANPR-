@@ -1,7 +1,7 @@
 to run this code and model do the following steps -
 1] Clone the github repo in your system.
 2] download the model from the Google Drive and paste it into the cloned folder
-	link- <a href="https://drive.google.com/file/d/1RcztMZuoEyDXHxizxFPe1Rj5pmfx4Q94/view?usp=sharing">https://drive.google.com/file/d/1RcztMZuoEyDXHxizxFPe1Rj5pmfx4Q94/view?usp=sharing</a>
+	link- <a https://drive.google.com/file/d/1RcztMZuoEyDXHxizxFPe1Rj5pmfx4Q94/viewusp=sharing
 3] open cmd in the folder
 
 For executing the model with webcam use the following command -
