@@ -8,6 +8,11 @@ from various sources, and manually labeled.
 
 Our Grand Collection of Dataset- https://drive.google.com/drive/folders/195oOIbT3DTY7M3rYSPOF-i6mzdiqGavD?usp=sharing
 
+The training of the Yolov8 model is performed using Google Colab as it provides free GPU T4 for processing 
+which really helps in reducing the training time. Below is the link of ipynb file used for training the model
+
+training code (ipynb file) - https://drive.google.com/file/d/173VmMsJE6cUL4oJjTwjR8nayL47s6Vf1/view?usp=sharing
+
 The YOLOv8 object detection model is trained on this dataset using Google Colab. The model is 
 specifically trained to handle the nuances of fancy number plates, including variations in font 
 sizes and languages. Preprocessing techniques, such asgrayscale scaling and image contouring, 
