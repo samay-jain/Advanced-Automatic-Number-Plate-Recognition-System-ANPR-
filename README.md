@@ -38,20 +38,36 @@ plates with varying font sizes and languages in a single image. The seamless int
 YOLOv8 for detection and EasyOCR, along with other supporting libraries, demonstrate an
 effective approach to handle the intricacies associated with such challenging scenarios.
 
+To execute this model, perform the following steps:
+#### [1] Clone the GitHub repo on your system.
+
+#### [2] Download the model from Google Drive and paste it into the cloned folder.
+link- https://drive.google.com/file/d/1RcztMZuoEyDXHxizxFPe1Rj5pmfx4Q94/view?usp=sharing
+
+#### 3] Open cmd in the folder.
+To execute the model with a webcam, use the following command:
+     ```
+     Python predict.py model=bestn.pt source=0
+     ```
+
+To execute the model with a webcam, use the following command:
+     ```
+     Python predict.py model=bestn.pt source="test video.mp4"
+     ```
 
 Sample Output of Our Developed Model
 
-1] Number Plate Detection
+#### 1] Number Plate Detection
 
 ![10](https://github.com/samay-jain/Advanced-Automatic-Number-Plate-Recognition-System-ANPR-/assets/116068471/316583a5-7d81-4f36-b7d4-adc2b5562fa4)
 ![4](https://github.com/samay-jain/Advanced-Automatic-Number-Plate-Recognition-System-ANPR-/assets/116068471/3e046f30-2063-4e34-988c-e6b8426e7a69)
 
-Normal Number Plate Detection and Recognition
+#### Normal Number Plate Detection and Recognition
 
 ![5](https://github.com/samay-jain/Advanced-Automatic-Number-Plate-Recognition-System-ANPR-/assets/116068471/7c873989-1f8b-486e-82e7-95e0a4bce30c)
 ![6](https://github.com/samay-jain/Advanced-Automatic-Number-Plate-Recognition-System-ANPR-/assets/116068471/2626a7ec-4485-418f-97c4-62ba2083f988)
 
-2] Fancy Number Plate (Plates with different fonts, designs, styles, and languages)
+#### 2] Fancy Number Plate (Plates with different fonts, designs, styles, and languages)
 
 ![7](https://github.com/samay-jain/Advanced-Automatic-Number-Plate-Recognition-System-ANPR-/assets/116068471/9fd100cc-cd6c-434e-b778-382f24cc22d8)
 ![8](https://github.com/samay-jain/Advanced-Automatic-Number-Plate-Recognition-System-ANPR-/assets/116068471/f304415e-4705-4d0e-8722-b44757bec80c)
