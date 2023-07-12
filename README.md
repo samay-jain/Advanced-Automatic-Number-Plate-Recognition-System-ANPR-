@@ -1,4 +1,5 @@
 # Advanced Automatic Number Plate Recognition System [ANPR]
+![automated-number-plate-recognition-anpr](https://github.com/samay-jain/Advanced-Automatic-Number-Plate-Recognition-System-ANPR-/assets/116068471/5ea1733d-7df0-418d-9ac6-cdd3b27ce191)
 
 This project focuses on developing a robust number plate recognition system capable of
 detecting and recognizing "fancy" number plates, which include number plates with different fonts
@@ -54,8 +55,8 @@ To execute the model with a webcam, use the following command:
      ```
      python predict.py model=bestn.pt source="test video.mp4"
      ```
-
-Sample Output of Our Developed Model
+_______________________________________________________________________________________________________________________________________________
+#### Sample Output of Our Developed Model
 
 #### 1] Number Plate Detection
 
