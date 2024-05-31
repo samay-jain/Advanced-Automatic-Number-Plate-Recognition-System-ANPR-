@@ -51,7 +51,7 @@ To execute the model with a webcam, use the following command:
      python predict.py model=bestn.pt source=0
      ```
 
-To execute the model with a webcam, use the following command:
+To process a video footage, use the following command:
      ```
      python predict.py model=bestn.pt source="test video.mp4"
      ```
